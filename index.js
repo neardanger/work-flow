@@ -11,5 +11,7 @@ var app = express()
 
 
 app.get('/home',function(req,res){
-  Find({})
+  Find({},function(err,home){
+    res.json("Aersome")
+  })
 })
