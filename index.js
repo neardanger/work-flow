@@ -18,8 +18,13 @@ app.get('/home',function(req,res){
   })
 })
 
+<<<<<<< HEAD
 
 lhrhnhecrwhechuoechEHUECUIhueHicuros
+/////////something to create conflict with
+///////hahahahahahahahahhahhhahhhhhh
+>>>>>>> 3ac01104b6a5a91e3f1e47dd8e1b8b8f62ed178d
 
 
 ///
+=======
