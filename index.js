@@ -1,3 +1,3 @@
-function myName(){
-  .
+function myName(name){
+  return name
 }
